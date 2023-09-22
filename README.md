@@ -57,4 +57,3 @@ I have attached a sample test metrices for my overall testing:
 ## Feedback and Questions
 If you have any questions, need clarification, or wish to provide feedback on the testing process or this README, please feel free to reach out. Open and transparent communication is essential for maintaining product quality.
 
-Happy testing! Your efforts are crucial in ensuring the software's quality and reliability. 
